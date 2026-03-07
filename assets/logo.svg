@@ -1,0 +1,14 @@
+﻿<svg width="196" height="44" viewBox="0 0 196 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">PaisaPilot Logo</title>
+  <desc id="logoDesc">Rupee badge and PaisaPilot wordmark</desc>
+  <defs>
+    <linearGradient id="g1" x1="6" y1="6" x2="38" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B5FFF"/>
+      <stop offset="1" stop-color="#FF7A00"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="195" height="43" rx="21.5" fill="#FFFFFF" stroke="#CCDAFD"/>
+  <circle cx="22" cy="22" r="15" fill="url(#g1)"/>
+  <text x="22" y="27" text-anchor="middle" font-family="Manrope, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF">₹</text>
+  <text x="47" y="27" font-family="Manrope, Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#0E1A38">PaisaPilot</text>
+</svg>
