@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Missing .html pages should return 410 (Gone)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)\.html$ - [G,L]

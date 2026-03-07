@@ -1,0 +1,9 @@
+﻿# PaisaPilot robots rules
+User-agent: *
+Allow: /
+
+# Keep private/system paths blocked if added in future
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Sitemap: https://paisapilot.website/sitemap.xml
