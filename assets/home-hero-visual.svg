@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="t d">
+<title id="t">PaisaPilot homepage hero visual</title><desc id="d">Illustration for bilingual personal finance learning</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0b5fff"/><stop offset="100%" stop-color="#4da0ff"/></linearGradient>
+</defs>
+<rect width="900" height="720" rx="40" fill="#eef4ff"/>
+<circle cx="720" cy="150" r="130" fill="#d9e7ff"/>
+<circle cx="180" cy="620" r="170" fill="#ffe6cf"/>
+<rect x="70" y="78" width="760" height="560" rx="34" fill="url(#bg)"/>
+<rect x="122" y="138" width="280" height="386" rx="26" fill="#ffffff" opacity="0.97"/>
+<rect x="152" y="184" width="124" height="18" rx="9" fill="#0b5fff"/>
+<rect x="152" y="222" width="188" height="14" rx="7" fill="#d8e6ff"/>
+<rect x="152" y="252" width="160" height="14" rx="7" fill="#d8e6ff"/>
+<rect x="152" y="304" width="220" height="54" rx="18" fill="#ff7a00"/>
+<text x="205" y="339" fill="#ffffff" font-size="24" font-family="Arial, sans-serif" font-weight="700">English</text>
+<rect x="152" y="382" width="220" height="54" rx="18" fill="#0b5fff" opacity="0.9"/>
+<text x="222" y="417" fill="#ffffff" font-size="24" font-family="Arial, sans-serif" font-weight="700">Hindi</text>
+<rect x="470" y="160" width="250" height="130" rx="24" fill="#ffffff" opacity="0.95"/>
+<text x="505" y="215" fill="#0b5fff" font-size="26" font-family="Arial, sans-serif" font-weight="700">Budget</text>
+<text x="505" y="255" fill="#4d5873" font-size="20" font-family="Arial, sans-serif">Cards, EMI, Insurance</text>
+<rect x="470" y="332" width="250" height="130" rx="24" fill="#ffffff" opacity="0.92"/>
+<text x="505" y="387" fill="#ff7a00" font-size="26" font-family="Arial, sans-serif" font-weight="700">UPI Safety</text>
+<text x="505" y="427" fill="#4d5873" font-size="20" font-family="Arial, sans-serif">Simple guides for India</text>
+<text x="122" y="592" fill="#dce9ff" font-size="24" font-family="Arial, sans-serif">Practical finance learning in two languages</text>
+</svg>

@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">PaisaPilot homepage banner</title>
+<desc id="d">Minimal banner for bilingual personal finance website</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b5fff"/>
+    <stop offset="100%" stop-color="#4d9eff"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="520" rx="34" fill="#eef4ff"/>
+<rect x="36" y="36" width="1128" height="448" rx="30" fill="url(#bg)"/>
+<circle cx="1020" cy="108" r="118" fill="#ffffff" opacity="0.08"/>
+<circle cx="103" cy="430" r="120" fill="#ffcf9d" opacity="0.24"/>
+<rect x="760" y="132" width="260" height="220" rx="34" fill="#ffffff" opacity="0.14"/>
+<rect x="808" y="184" width="150" height="24" rx="12" fill="#ffffff" opacity="0.92"/>
+<rect x="808" y="226" width="118" height="18" rx="9" fill="#dce8ff"/>
+<rect x="808" y="260" width="136" height="18" rx="9" fill="#dce8ff"/>
+<rect x="808" y="304" width="166" height="20" rx="10" fill="#ffb36f"/>
+<text x="96" y="132" fill="#dfeaff" font-size="28" font-family="Arial, sans-serif" font-weight="700">PaisaPilot</text>
+<text x="96" y="220" fill="#ffffff" font-size="58" font-family="Arial, sans-serif" font-weight="800">Learn Money Skills Better</text>
+<text x="96" y="290" fill="#ffffff" font-size="58" font-family="Arial, sans-serif" font-weight="800">in English and Hindi</text>
+<text x="96" y="352" fill="#dfeaff" font-size="26" font-family="Arial, sans-serif">Budgeting, cards, EMI, UPI safety, insurance, and everyday money clarity.</text>
+<rect x="96" y="388" width="170" height="52" rx="18" fill="#ffffff" opacity="0.96"/>
+<text x="139" y="422" fill="#0b5fff" font-size="24" font-family="Arial, sans-serif" font-weight="700">English</text>
+<rect x="286" y="388" width="150" height="52" rx="18" fill="#ff7a00"/>
+<text x="334" y="422" fill="#ffffff" font-size="24" font-family="Arial, sans-serif" font-weight="700">Hindi</text>
+</svg>

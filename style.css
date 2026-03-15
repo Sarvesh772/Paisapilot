@@ -113,13 +113,14 @@ body {
 }
 
 .hero {
-  padding: 3.4rem 0 2rem;
+  padding: 2rem 0 0.8rem;
 }
 
 .hero-grid {
   display: grid;
   grid-template-columns: 1.55fr 1fr;
   gap: 1rem;
+  align-items: center;
 }
 
 .kicker {
@@ -144,12 +145,13 @@ h1 {
 
 .hero-text {
   color: var(--muted);
-  max-width: 62ch;
+  max-width: 44ch;
   margin-bottom: 1rem;
 }
 
 .lang-switch {
   display: inline-flex;
+  width: fit-content;
   border: 1px solid var(--border);
   border-radius: 999px;
   padding: 0.25rem;
@@ -172,6 +174,32 @@ h1 {
   color: #fff;
 }
 
+.hero-copy-simple {
+  max-width: 760px;
+  padding: 1rem 0 0.25rem;
+}
+
+.hero-copy-simple .hero-text {
+  max-width: 32ch;
+}
+
+.hero-shell {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.hero-banner {
+  margin: 0;
+}
+
+.hero-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 24px;
+  border: 1px solid var(--border);
+  box-shadow: 0 18px 40px rgba(16, 33, 84, 0.12);
+}
 .hero-card,
 .card,
 .post-card {
@@ -184,6 +212,7 @@ h1 {
 
 .hero-card {
   border-top: 4px solid var(--accent);
+  margin-top: 1.2rem;
 }
 
 .section {
@@ -229,7 +258,6 @@ h1 {
 .post-card a:hover {
   text-decoration: underline;
 }
-
 .prose {
   max-width: 78ch;
 }
@@ -449,3 +477,82 @@ h1 {
 .author-box p {
   margin: 0.2rem 0;
 }
+
+.article-hero {
+  margin: 1rem 0 1.25rem;
+}
+
+.article-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  background: #fff;
+  box-shadow: 0 16px 36px rgba(16, 33, 84, 0.10);
+}
+
+.hero-copy {
+  display: grid;
+  align-content: center;
+}
+
+.hero-visual {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  margin-left: auto;
+  filter: drop-shadow(0 20px 40px rgba(16, 33, 84, 0.12));
+}
+
+.section-visual {
+  margin: 0 0 1.2rem;
+}
+
+.section-visual img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 22px;
+  border: 1px solid var(--border);
+  box-shadow: 0 16px 36px rgba(16, 33, 84, 0.10);
+}
+
+@media (max-width: 900px) {
+  .hero-visual {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+
+
+.hero-shell {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.hero-banner {
+  margin: 0;
+}
+
+.hero-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 24px;
+  border: 1px solid var(--border);
+  box-shadow: 0 18px 40px rgba(16, 33, 84, 0.12);
+}
+
+.hero-copy-simple {
+  max-width: 860px;
+  padding: 2rem 0 0.5rem;
+}
+
+.hero-copy-simple .hero-text {
+  max-width: 32ch;
+}
+
+
+
