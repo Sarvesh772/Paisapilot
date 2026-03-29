@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+<title id="t">Medical emergency budget plan cover</title><desc id="d">Cover for medical emergency budget plan article</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ff7a00"/><stop offset="100%" stop-color="#ffb15f"/></linearGradient></defs>
+<rect width="1200" height="630" fill="#fff5ea" rx="32"/><rect x="78" y="76" width="1044" height="478" rx="30" fill="url(#g)"/>
+<circle cx="1022" cy="122" r="116" fill="#ffffff" opacity="0.10"/>
+<text x="140" y="168" fill="#fff2e4" font-size="30" font-family="Arial, sans-serif" font-weight="700">PaisaPilot</text>
+<text x="140" y="250" fill="#ffffff" font-size="56" font-family="Arial, sans-serif" font-weight="800">Medical Emergency</text>
+<text x="140" y="318" fill="#ffffff" font-size="56" font-family="Arial, sans-serif" font-weight="800">Budget Plan</text>
+<text x="140" y="392" fill="#fff2e4" font-size="28" font-family="Arial, sans-serif">Arrange cash priorities calmly during treatment stress.</text>
+<rect x="790" y="215" width="190" height="188" rx="24" fill="#ffffff" opacity="0.92"/>
+<rect x="836" y="248" width="96" height="22" rx="11" fill="#ff7a00"/>
+<rect x="822" y="292" width="126" height="18" rx="9" fill="#ffd7b3"/>
+<rect x="822" y="326" width="126" height="18" rx="9" fill="#ffd7b3"/>
+<rect x="822" y="364" width="126" height="22" rx="11" fill="#0b5fff" opacity="0.18"/>
+</svg>

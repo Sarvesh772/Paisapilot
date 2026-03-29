@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+<title id="t">Credit utilization cover</title><desc id="d">Credit utilization guide article cover</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#083da6"/><stop offset="100%" stop-color="#0b5fff"/></linearGradient></defs>
+<rect width="1200" height="630" rx="32" fill="#f3f7ff"/><circle cx="1030" cy="520" r="190" fill="#dce8ff"/><rect x="92" y="92" width="1016" height="446" rx="28" fill="url(#g)"/>
+<text x="150" y="210" fill="#ffffff" font-size="34" font-family="Arial, sans-serif" font-weight="700">PaisaPilot</text>
+<text x="150" y="300" fill="#ffffff" font-size="62" font-family="Arial, sans-serif" font-weight="800">Credit Utilization</text>
+<text x="150" y="370" fill="#ffffff" font-size="62" font-family="Arial, sans-serif" font-weight="800">Guide</text>
+<text x="150" y="442" fill="#dce9ff" font-size="28" font-family="Arial, sans-serif">The hidden ratio behind a healthier credit profile</text>
+<rect x="785" y="225" width="240" height="140" rx="24" fill="#ffffff" opacity="0.95"/><rect x="820" y="265" width="170" height="22" rx="11" fill="#dce8ff"/><rect x="820" y="305" width="115" height="22" rx="11" fill="#ff7a00"/><rect x="785" y="392" width="240" height="26" rx="13" fill="#ffffff" opacity="0.2"/><rect x="785" y="392" width="132" height="26" rx="13" fill="#ffb36f"/>
+</svg>
